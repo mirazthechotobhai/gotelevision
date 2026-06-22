@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://playlist-maker-pro--zelphia12.replit.app/",
+  "seed_origin": "https://playlist-maker-pro--zelphia12.replit.app:443",
+  "seed_host": "playlist-maker-pro--zelphia12.replit.app",
+  "final_url": "https://playlist-maker-pro--zelphia12.replit.app/",
+  "final_host": "playlist-maker-pro--zelphia12.replit.app",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-06-22T13:00:01.970689Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 2,
+    "total_asset_bytes": 116365
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 4,
+    "assets_included": 2,
+    "assets_excluded": 2
+  },
+  "excluded": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://replit-cdn.com/replit-pill/replit-pill.global.js",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://playlist-maker-pro--zelphia12.replit.app/assets/index-zK6YMCNG.css": {
+      "local_path": "assets/0dce2d1d7b9b5ad4aefdd500168c084abc685f74e1d8883a76652ff3caa6d80b.css",
+      "content_type": "text/css; charset=utf-8"
+    },
+    "https://playlist-maker-pro--zelphia12.replit.app/favicon.svg": {
+      "local_path": "assets/8ffbde9092b1fa4de97c9481b76f518b131268c82e7c555041925225b1dab6e0.svg",
+      "content_type": "image/svg+xml"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 2,
+    "meaningful_elements": 0,
+    "text_content_length": 28
+  }
+}
